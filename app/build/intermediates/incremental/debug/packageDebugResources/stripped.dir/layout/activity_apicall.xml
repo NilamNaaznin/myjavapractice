@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                       
+                                                   
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent" android:tag="layout/activity_apicall_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:context=".activity.APICallActivity">
+
+            <EditText
+                android:id="@+id/etPhoneNo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:hint="Enter Phone No"
+                android:maxLength="10"
+                android:maxLines="1"
+                android:singleLine="true"
+                android:inputType="number"
+                android:imeOptions="actionDone"
+                android:cursorVisible="true"
+                android:padding="11dp"
+                android:paddingStart="15dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginTop="10dp"
+                android:drawablePadding="5dp"
+                android:drawableStart="@drawable/ic_mobile"
+                android:background="@drawable/edittext_bg" />
+
+
+            <EditText
+                android:id="@+id/etPassword"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:hint="Enter Password"
+                android:maxLines="1"
+                android:singleLine="true"
+                android:cursorVisible="true"
+                android:imeOptions="actionDone"
+                android:padding="11dp"
+                android:paddingStart="15dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginTop="10dp"
+                android:drawablePadding="5dp"
+                android:drawableStart="@drawable/ic_lock"
+                android:background="@drawable/edittext_bg"
+                android:layout_below="@+id/etPhoneNo" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnLogin"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/etPassword"
+                android:layout_marginTop="10dp"
+                android:layout_centerHorizontal="true"
+                android:backgroundTint="@color/green"
+                android:text="@string/first"
+                android:textAllCaps="false"
+                android:textSize="16sp"
+                app:cornerRadius="7dp" />
+
+            <ProgressBar
+                android:id="@+id/pBar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:visibility="invisible"
+                android:layout_centerInParent="true" />
+
+
+
+            <EditText
+                android:id="@+id/etName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="13dp"
+                android:layout_marginTop="30dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginEnd="10dp"
+                android:maxLines="1"
+                android:singleLine="true"
+                android:imeOptions="actionNext"
+                android:hint="Name as per Aadhar"
+                android:drawableStart="@drawable/person"
+                android:paddingStart="15dp"
+                android:drawablePadding="5dp"
+                android:background="@drawable/edittext_bg"
+                android:layout_below="@+id/btnLogin"/>
+
+            <EditText
+                android:id="@+id/etPhoneNoReg"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:hint="Enter Phone No"
+                android:maxLength="10"
+                android:maxLines="1"
+                android:singleLine="true"
+                android:inputType="number"
+                android:imeOptions="actionDone"
+                android:cursorVisible="true"
+                android:padding="11dp"
+                android:paddingStart="15dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginTop="10dp"
+                android:drawablePadding="5dp"
+                android:drawableStart="@drawable/ic_mobile"
+                android:background="@drawable/edittext_bg"
+                android:layout_below="@+id/etName"/>
+
+
+            <EditText
+                android:id="@+id/etPasswordRe"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:padding="13dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="10dp"
+                android:paddingStart="15dp"
+                android:drawableStart="@drawable/ic_lock"
+                android:drawablePadding="5dp"
+                android:maxLines="1"
+                android:singleLine="true"
+                android:imeOptions="actionDone"
+                android:cursorVisible="true"
+                android:hint="Enter Password"
+                android:background="@drawable/edittext_bg"
+                android:layout_below="@+id/etPhoneNoReg"/>
+
+            <EditText
+                android:id="@+id/etConPassword"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:padding="13dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_gravity="center"
+                android:paddingStart="15dp"
+                android:drawableStart="@drawable/ic_lock"
+                android:drawablePadding="5dp"
+                android:maxLines="1"
+                android:singleLine="true"
+                android:imeOptions="actionDone"
+                android:cursorVisible="true"
+                android:hint="Enter Confirm Password"
+                android:background="@drawable/edittext_bg"
+                android:layout_below="@+id/etPasswordRe"/>
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnRegister"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/etConPassword"
+                android:layout_marginTop="10dp"
+                android:layout_centerHorizontal="true"
+                android:backgroundTint="@color/green"
+                android:text="@string/register"
+                android:textAllCaps="false"
+                android:textSize="16sp"
+                app:cornerRadius="7dp" />
+
+            <TextView
+                android:id="@+id/tvName"
+                android:layout_below="@+id/btnRegister"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:textColor="@color/black"/>
+            <EditText
+                android:id="@+id/etNameEdit"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="13dp"
+                android:layout_marginTop="30dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginEnd="10dp"
+                android:maxLines="1"
+                android:singleLine="true"
+                android:imeOptions="actionNext"
+                android:hint="Name as per Aadhar"
+                android:drawableStart="@drawable/person"
+                android:paddingStart="15dp"
+                android:drawablePadding="5dp"
+                android:background="@drawable/edittext_bg"
+                android:layout_below="@+id/tvName"/>
+
+            <EditText
+                android:id="@+id/etPhoneNoEdit"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:hint="Enter Phone No"
+                android:maxLength="10"
+                android:maxLines="1"
+                android:singleLine="true"
+                android:inputType="number"
+                android:imeOptions="actionDone"
+                android:cursorVisible="true"
+                android:padding="11dp"
+                android:paddingStart="15dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginTop="10dp"
+                android:drawablePadding="5dp"
+                android:drawableStart="@drawable/ic_mobile"
+                android:background="@drawable/edittext_bg"
+                android:layout_below="@+id/etNameEdit"/>
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnUpdate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/etPhoneNoEdit"
+                android:layout_marginTop="10dp"
+                android:layout_centerHorizontal="true"
+                android:backgroundTint="@color/green"
+                android:text="@string/update"
+                android:textAllCaps="false"
+                android:textSize="16sp"
+                app:cornerRadius="7dp" />
+
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/rvPopulation"
+                android:layout_below="@+id/btnUpdate"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"/>
+
+
+            <TextView
+                android:id="@+id/tvNation"
+                android:layout_below="@+id/rvPopulation"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:textSize="18sp"
+                android:textColor="@color/black"/>
+
+        </RelativeLayout>
+
+    </ScrollView>
+
+
+         

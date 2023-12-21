@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="green">#29662B</color>
+    <color name="shadow_dark">#777A77</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">My Java Practice</string>
+    <string name="first">first</string>
+    <string name="register">Register</string>
+    <string name="second">second</string>
+    <string name="third">third</string>
+    <string name="update">Update</string>
+    <style name="Base.Theme.MyJavaPractice" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="MyRounded.MaterialComponents.MaterialAlertDialog" parent="@style/ThemeOverlay.MaterialComponents.MaterialAlertDialog">
+        <item name="shapeAppearanceOverlay">@style/ShapeAppearanceOverlay.App.CustomDialog.Rounded</item>
+        <item name="android:windowSoftInputMode">adjustResize|stateVisible</item>
+    </style>
+    <style name="ShapeAppearanceOverlay.App.CustomDialog.Rounded" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">10dp</item>
+    </style>
+    <style name="Theme.MyJavaPractice" parent="Base.Theme.MyJavaPractice"/>
+    <style name="circleImageView" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+    <style name="circleImageView2" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">5%</item>
+    </style>
+    <style name="circleImageView3" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">11%</item>
+    </style>
+    <style name="circleImageView4" parent="">
+            <item name="cornerFamily">rounded</item>
+            <item name="cornerSize">50%</item>
+        </style>
+    <style name="progressBarBlue" parent="@style/Theme.AppCompat">
+        <item name="colorAccent">@color/green</item>
+    </style>
+</resources>

@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-merged_res-34:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-main-36:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-merged_res-34:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-main-36:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-merged_res-34:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-main-36:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-merged_res-34:\\layout_custom_popup_dialog.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-main-36:\\layout\\custom_popup_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-merged_res-34:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-main-36:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-merged_res-34:\\raw_door_logout.json.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-main-36:\\raw\\door_logout.json"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-merged_res-34:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-main-36:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-merged_res-34:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-main-36:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-merged_res-34:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-main-36:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-merged_res-34:\\drawable_edittext_bg.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-main-36:\\drawable\\edittext_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-merged_res-34:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-main-36:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-merged_res-34:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-main-36:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-merged_res-34:\\layout_activity_go_to_all.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-main-36:\\layout\\activity_go_to_all.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-merged_res-34:\\raw_logout.json.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-main-36:\\raw\\logout.json"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-merged_res-34:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-main-36:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-merged_res-34:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-main-36:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-merged_res-34:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-main-36:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-merged_res-34:\\layout_activity_apicall.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-main-36:\\layout\\activity_apicall.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-merged_res-34:\\drawable_ic_mobile.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-main-36:\\drawable\\ic_mobile.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-merged_res-34:\\raw_somthing_error.json.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-main-36:\\raw\\somthing_error.json"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-merged_res-34:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-main-36:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-merged_res-34:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-main-36:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-merged_res-34:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-main-36:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-merged_res-34:\\raw_car_welcom.json.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-main-36:\\raw\\car_welcom.json"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-merged_res-34:\\raw_sucessfull.json.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-main-36:\\raw\\sucessfull.json"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-merged_res-34:\\raw_login.json.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-main-36:\\raw\\login.json"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-merged_res-34:\\raw_failed.json.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-main-36:\\raw\\failed.json"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-merged_res-34:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-main-36:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-merged_res-34:\\drawable_person.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-main-36:\\drawable\\person.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-merged_res-34:\\drawable_ic_lock.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-main-36:\\drawable\\ic_lock.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-merged_res-34:\\raw_loading.json.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-main-36:\\raw\\loading.json"
+    },
+    {
+        "merged": "com.myjavapractice.app-merged_res-34:/layout_activity_apicall.xml.flat",
+        "source": "com.myjavapractice.app-main-36:/layout/activity_apicall.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-merged_res-34:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-main-36:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    }
+]

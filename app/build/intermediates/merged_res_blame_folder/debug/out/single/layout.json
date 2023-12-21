@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-mergeDebugResources-33:\\layout\\activity_apicall.xml",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-main-36:\\layout\\activity_apicall.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-mergeDebugResources-33:\\layout\\activity_go_to_all.xml",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-main-36:\\layout\\activity_go_to_all.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-mergeDebugResources-33:\\layout\\custom_popup_dialog.xml",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\8.0\\com.myjavapractice.app-main-36:\\layout\\custom_popup_dialog.xml"
+    },
+    {
+        "merged": "com.myjavapractice.app-mergeDebugResources-33:/layout/activity_apicall.xml",
+        "source": "com.myjavapractice.app-main-36:/layout/activity_apicall.xml"
+    }
+]
